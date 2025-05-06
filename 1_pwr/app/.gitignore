@@ -4,4 +4,5 @@ sdkconfig.old
 ipch/
 
 # Stores VSCode versions used for testing VSCode extensions
+.vscode/
 .vscode-test
